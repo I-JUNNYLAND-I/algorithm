@@ -1,1 +1,1 @@
-# algorithm
+# junnys - algorithm study
