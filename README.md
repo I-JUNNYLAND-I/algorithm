@@ -1,4 +1,4 @@
-# Junny land algorithm study
+# algorithm study
 
 ## PR 규칙
 1. Issue Link 할것.
