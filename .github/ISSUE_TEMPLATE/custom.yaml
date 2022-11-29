@@ -10,14 +10,26 @@ body:
     attributes:
       label: Q 1
       placeholder: Please input leetcode Link
+    validations:
+      required: false      
+  - type: input
+    id: contact      
     attributes:
-      label: Q 1
+      label: Q 2
       placeholder: Please input leetcode Link
+    validations:
+      required: false      
+  - type: input
+    id: contact      
     attributes:
-      label: Q 1
+      label: Q 3
       placeholder: Please input leetcode Link
+    validations:
+      required: false      
+  - type: input
+    id: contact      
     attributes:
-      label: Q 1
+      label: Q 4
       placeholder: Please input leetcode Link
     validations:
       required: false
