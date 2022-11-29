@@ -5,11 +5,16 @@ labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-- type: markdown
+- type: textarea
+  id: repro
   attributes:
-    value: "## Welcome!"
-- type: markdown
-  attributes:
+    label: Today's
+    description: "try to resolve& pull request !"
     value: |
-      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
-
+      1. [Q1]()
+      2. [Q2]()
+      3. [Q3]()
+      4. [Q3]()
+    render: bash
+  validations:
+    required: true
