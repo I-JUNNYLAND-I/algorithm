@@ -9,6 +9,7 @@
 
 **[예시](https://github.com/I-JUNNYLAND-I/algorithm/pull/3)**
 
+## milestone
 ---
 
-1주차 Milestone은 String 입니다.
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)
