@@ -7,8 +7,9 @@ assignees:
 body:
 - type: markdown
   attributes:
-    value: "## Welcome! \n (Q1)[] \n (Q2)[] \n (Q3)[] \n (Q4)[] \n (Q5)[]"
-
-
-
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+       \n (Q1)[] \n (Q2)[] \n (Q3)[] \n (Q4)[] \n (Q5)[].
 
