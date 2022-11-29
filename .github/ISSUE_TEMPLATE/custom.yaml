@@ -7,15 +7,13 @@ assignees:
 body:
 - type: markdown
   attributes:
-    value: "## Welcome!"
-- type: markdown
-  attributes:
-    value: |
-      (Q1)[]
+    value: "## Welcome!
+          (Q1)[]
       (Q2)[]
       (Q3)[]
       (Q4)[]
-      (Q5)[]
+      (Q5)[]"
+
 
 
 
