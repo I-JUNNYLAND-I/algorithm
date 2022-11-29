@@ -5,34 +5,17 @@ labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-  - type: input
-    id: q1
-    attributes:
-      label: Q 1
-      placeholder: Please input leetcode Link
-    validations:
-      required: false      
-  - type: input
-    id: q2      
-    attributes:
-      label: Q 2
-      placeholder: Please input leetcode Link
-    validations:
-      required: false      
-  - type: input
-    id: q3      
-    attributes:
-      label: Q 3
-      placeholder: Please input leetcode Link
-    validations:
-      required: false      
-  - type: input
-    id: q4      
-    attributes:
-      label: Q 4
-      placeholder: Please input leetcode Link
-    validations:
-      required: false
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      (Q1)[]
+      (Q2)[]
+      (Q3)[]
+      (Q4)[]
+      (Q5)[]
 
 
 
