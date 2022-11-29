@@ -5,7 +5,7 @@ labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-- type: textarea
+- type: markdown
   id: repro
   attributes:
     label: Today's
