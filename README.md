@@ -1,4 +1,9 @@
 # algorithm study
+참여시 Branch 생성을 요청해 주시기 바랍니다.
+leethub연동후 문제를 풀어 본인의 repository에 commit이 되었는지 확인한 후
+
+현재 repository를 fork하고 알맞는 Branch에 pull request 해주시면 됩니다.
+
 
 ## PR 규칙
 1. Issue Link 할것.
