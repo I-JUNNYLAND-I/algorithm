@@ -8,13 +8,13 @@ body:
 - type: textarea
   id: repro
   attributes:
-    label: Today's
+    label: Question !
     description: "try to resolve& pull request !"
     value: |
-      1. [Q1]()
-      2. [Q2]()
-      3. [Q3]()
-      4. [Q3]()
+      [Q1]()
+      [Q2]()
+      [Q3]()
+      [Q3]() SQL
     render: bash
   validations:
     required: true
