@@ -1,20 +1,24 @@
 name: Daily question
 description: try to resolve& pull request !
-title: "[{date}]: "
+title: "[{{date}}]: "
 labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Q 1
+      placeholder: Please input leetcode Link
+    attributes:
+      label: Q 1
+      placeholder: Please input leetcode Link
+    attributes:
+      label: Q 1
+      placeholder: Please input leetcode Link
+    attributes:
+      label: Q 1
+      placeholder: Please input leetcode Link
     validations:
       required: false
 
