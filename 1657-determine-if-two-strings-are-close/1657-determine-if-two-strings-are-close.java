@@ -4,8 +4,8 @@ class Solution {
         char[] chars2 = word2.toCharArray();
         Map<Character, Integer> map1 = getCharCountMap(chars1);
         Map<Character, Integer> map2 = getCharCountMap(chars2);
-        int[] ints1 = map1.values().stream().mapToInt(Integer::intValue).toArray();
-        int[] ints2 = map2.values().stream().mapToInt(Integer::intValue).toArray();
+        Integer[] ints1 = map1.values().toArray(Integer[]::new);
+        Integer[] ints2 = map2.values().toArray(Integer[]::new);
         Set<Character> set1 = map1.keySet();
         Set<Character> set2 = map2.keySet();
         Arrays.sort(ints1);
