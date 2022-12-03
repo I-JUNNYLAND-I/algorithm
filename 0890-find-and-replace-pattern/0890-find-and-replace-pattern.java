@@ -1,33 +1,23 @@
 class Solution {
-    public List<String> findAndReplacePattern(String[] words, String pattern) 
-    {
-        List<String> list = new ArrayList<>();
-        for(String word:words)
-        {
-            boolean flag=true;
-            HashMap<Character,Character> hmap = new HashMap<>();
-            for(int i=0;i<pattern.length();i++)
-            {
-                char p = pattern.charAt(i);
-                char c = word.charAt(i);
-                if(hmap.get(p)==null)
-                {
-                    if(hmap.containsValue(c))
-                    {
-                        flag = false;
-                        break;
-                    }
-                    hmap.put(p,c);
-                }
-                else if(hmap.get(p)!=c)
-                {
-                    flag = false;
-                    break;
-                }
-            }
-            if(flag)
-                list.add(word);
-        }
+public List<String> findAndReplacePattern(String[] words, String pattern) {
+        List<String> list = new ArrayList<String>();
+            for(String word: words){
+             if(isPatternMatch(word, pattern))
+                 list.add(word);
+         }
         return list;
+    }
+    
+    
+    private boolean isPatternMatch(String word, String pattern){
+      HashMap<Character, Character> map = new HashMap<>();
+      if(word.length()!=pattern.length()) return false;
+      for(int i=0;i<pattern.length();i++){
+            if(map.containsKey(pattern.charAt(i))){
+             if (map.get(pattern.charAt(i))!=word.charAt(i)) return false;
+             }  else if(map.containsValue(word.charAt(i))) return false;
+            map.put(pattern.charAt(i), word.charAt(i));
+        }
+         return true;
     }
 }
