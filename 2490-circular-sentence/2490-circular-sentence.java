@@ -1,9 +1,6 @@
 class Solution {
     public boolean isCircularSentence(String sentence) {
         String[] strs = sentence.split(" ");
-        if (strs.length == 1) {
-            return strs[0].charAt(0) == strs[0].charAt(strs[0].length() - 1);
-        }
         int len = strs.length;
         char head = strs[0].charAt(0);
         char tail = strs[0].charAt(strs[0].length() - 1);
