@@ -14,5 +14,5 @@
 ## milestone
 ---
 
-week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)
-week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/2)
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)  
+week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/2)  
