@@ -14,7 +14,7 @@ body:
       [Q1]()
       [Q2]()
       [Q3]()
-      [Q3]() SQL
+      [Q4]() SQL
     render: bash
   validations:
     required: true
