@@ -1,0 +1,20 @@
+name: Daily question
+description: try to resolve& pull request !
+title: "day "
+labels: ["❔ Question"]
+assignees:
+  - junnyJun
+body:
+- type: textarea
+  id: repro
+  attributes:
+    label: Question !
+    description: "try to resolve& pull request !"
+    value: |
+      [Q1]()
+      [Q2]()
+      [Q3]()
+      [Q4]() SQL
+    render: bash
+  validations:
+    required: true
