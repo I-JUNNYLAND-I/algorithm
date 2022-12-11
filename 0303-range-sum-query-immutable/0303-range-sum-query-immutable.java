@@ -7,10 +7,9 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        int[] temp = Arrays.copyOfRange(nums, left, right + 1);
         int sum = 0;
-        for(int num : temp) {
-            sum += num;
+        for(int i = left; i <= right; i++) {
+            sum += nums[i];
         }
         return sum;
     }
