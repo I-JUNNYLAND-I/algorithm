@@ -20,6 +20,13 @@ class Solution {
                 }
             }
         }
-        return set.stream().mapToInt(Integer::intValue).toArray();
+        int size = set.size();
+        int[] answer = new int[size];
+        int index = 0;
+        for (Integer num : set) {
+            answer[index] = num;
+            index++;
+        }
+        return answer;
     }
 }
