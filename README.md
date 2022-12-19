@@ -29,6 +29,9 @@ Wlsdn
 Quid-x  
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
 
-Jungho    
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)](https://github.com/KnlnKS/leetcode-stats)    
+Bbring  
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)](https://github.com/KnlnKS/leetcode-stats)    
 
+Jungho     
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)](https://github.com/KnlnKS/leetcode-stats)     
+  
