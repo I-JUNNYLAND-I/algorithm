@@ -24,7 +24,7 @@ JUNNY
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
 
 Wlsdn  
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wlsdn93&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=silrairon@naver.com&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
 
 Quid-x  
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
