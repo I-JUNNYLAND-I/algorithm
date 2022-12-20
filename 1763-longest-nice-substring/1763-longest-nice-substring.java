@@ -8,7 +8,8 @@ class Solution {
             
             for (int j = i; j < s.length(); j++) {
                 if (s.charAt(j) < 'a') upper[s.charAt(j) - 'A'] = true;
-                else                   lower[s.charAt(j) - 'a'] = true;
+                else { lower[s.charAt(j) - 'a'] = true;
+                }
                 
                 if (Arrays.equals(lower, upper) && result.length() <= j - i) {
                     result = s.substring(i, j + 1);
