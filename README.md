@@ -20,10 +20,10 @@ week 4 : [Tree](https://github.com/I-JUNNYLAND-I/algorithm/milestone/4)
 
 ## Contributor
 ---
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)
   
