@@ -20,9 +20,6 @@ class Solution {
         helper(root);
         int max = 0;
         int index = 0;
-        for (int num : arr) {
-            maxFreq = Math.max(maxFreq, num);
-        }
         List<Integer> temp = new ArrayList<>();
         for (int i = 0; i < arr.length; i++) {
             if(arr[i] == maxFreq) {
@@ -39,6 +36,7 @@ class Solution {
     private void helper(TreeNode node) {
         if (node == null) return;
         arr[node.val + 100000]++;
+        maxFreq = Math.max(maxFreq, arr[node.val + 100000]);
         helper(node.left);
         helper(node.right);
     }
