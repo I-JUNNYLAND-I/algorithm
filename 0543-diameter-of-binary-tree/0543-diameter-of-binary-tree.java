@@ -21,7 +21,6 @@ class Solution {
     }
     private int helper(TreeNode node) {
         if (node == null) return 0;
-        System.out.println(max);
         int left = helper(node.left);
         int right = helper(node.right);
         max = Math.max(max, left + right);
