@@ -1,8 +1,7 @@
 # algorithm study
-참여시 Branch 생성을 요청해 주시기 바랍니다.  
-[leethub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi)연동후 문제를 풀어 본인의 repository에 commit이 되었는지 확인한 후,  
-현재 [repository](https://github.com/I-JUNNYLAND-I/algorithm)를 fork하고 알맞는 Branch에 pull request 해주시면 됩니다.
-
+참여시 [Branch 생성을 요청](https://www.junnyland.com/til/computer-science/algorithm)해 주시기 바랍니다.  
+[leethub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi), [Baekjoon](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk)연동후 문제를 풀어 본인의 repository에 commit이 되었는지 확인한 후,  
+현재 [repository](https://github.com/I-JUNNYLAND-I/algorithm/fork)를 fork하고 알맞는 Branch에 pull request 해주시면 됩니다.
 
 ## PR 규칙 **[예시](https://github.com/I-JUNNYLAND-I/algorithm/pull/3)**
 1. Issue Link 할것.
@@ -16,3 +15,15 @@
 
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)  
 week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/2)  
+week 3 : [Hash](https://github.com/I-JUNNYLAND-I/algorithm/milestone/3)  
+week 4 : [Tree](https://github.com/I-JUNNYLAND-I/algorithm/milestone/4)  
+
+## Contributor
+---
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)
+  
