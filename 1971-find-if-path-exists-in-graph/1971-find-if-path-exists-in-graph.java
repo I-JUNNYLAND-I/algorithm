@@ -13,11 +13,11 @@ class Solution {
             map.get(s).add(d);
             map.get(d).add(s);
         }
-        moveTo(map, visited, source, destination);
+        dfs(map, visited, source, destination);
         return found;
     }
     
-    private void moveTo(Map<Integer, List<Integer>> map, boolean[] visited, int start, int end) {
+    private void dfs(Map<Integer, List<Integer>> map, boolean[] visited, int start, int end) {
         if(visited[start] || found) return;
         visited[start] = true;
         for (int vertex : map.get(start)) {
@@ -26,7 +26,7 @@ class Solution {
                 break;
             }
             if (!visited[vertex]) {
-                moveTo(map, visited, vertex, end);
+                dfs(map, visited, vertex, end);
             }
         }
     }
