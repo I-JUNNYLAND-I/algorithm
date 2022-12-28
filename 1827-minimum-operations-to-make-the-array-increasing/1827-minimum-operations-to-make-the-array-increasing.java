@@ -10,7 +10,6 @@ class Solution {
             }
             temp[i + 1] = nums[i + 1];
         }
-        System.out.println(Arrays.toString(temp));
         for (int i = 0; i < origin.length; i++) {
             count += (temp[i] - origin[i]);
         }
