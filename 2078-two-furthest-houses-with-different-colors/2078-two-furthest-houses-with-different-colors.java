@@ -9,12 +9,10 @@ class Solution {
             if (colors[pR] != first) break;
             else pR--;
         }
-        System.out.println("pR : " + pR);
         while (pL < colors.length) {
             if (colors[pL] != last) break;
             else pL++;
         }
-        System.out.println("pL : " + pL);
         return Math.max(len - pL - 1, pR);
     }
 }
