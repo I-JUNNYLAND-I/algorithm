@@ -17,8 +17,6 @@ class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
         int len = nums.length;
         int index = findMaxIndex(nums);
-        int[] left = Arrays.copyOfRange(nums, 0, index);
-        int[] right = Arrays.copyOfRange(nums, index + 1, len);
         TreeNode root = new TreeNode(nums[index]);
         treeBuilder(root, nums);
         return root;
