@@ -26,5 +26,4 @@ week 5 : [Greedy](https://github.com/I-JUNNYLAND-I/algorithm/milestone/5)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jeonghoHub&theme=dark)
   
