@@ -27,4 +27,6 @@ week 6 : [Stack](https://github.com/I-JUNNYLAND-I/algorithm/milestone/6)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
-  
+
+---
+![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=chbe5082)
