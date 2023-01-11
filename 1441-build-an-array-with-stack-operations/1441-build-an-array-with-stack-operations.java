@@ -7,13 +7,11 @@ class Solution {
         for (int i = 0; i < len; i++) {
             if (count > max) break;
             if (target[i] == count) {
-                System.out.println(count);
                 answer.push("Push");
                 count++;
             } 
             else {
                 while (count < target[i]) {
-                    System.out.println(count);
                     answer.push("Push");
                     answer.push("Pop");    
                     count++;
