@@ -23,6 +23,7 @@ week 7 : [Queue](https://github.com/I-JUNNYLAND-I/algorithm/milestone/7)
 
 ## Contributor
 ---
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vjvl95&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
