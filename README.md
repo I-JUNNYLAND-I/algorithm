@@ -19,6 +19,7 @@ week 3 : [Hash](https://github.com/I-JUNNYLAND-I/algorithm/milestone/3)
 week 4 : [Tree](https://github.com/I-JUNNYLAND-I/algorithm/milestone/4)  
 week 5 : [Greedy](https://github.com/I-JUNNYLAND-I/algorithm/milestone/5)  
 week 6 : [Stack](https://github.com/I-JUNNYLAND-I/algorithm/milestone/6)  
+week 7 : [Queue](https://github.com/I-JUNNYLAND-I/algorithm/milestone/7)  
 
 ## Contributor
 ---
