@@ -5,15 +5,12 @@
 var findMaxConsecutiveOnes = function(nums) {
     let maxAppear=-1
     let appear=0
-    let isContinue=false
     for(let i=0;i<nums.length;i++){
         if(nums[i]===1){
-            isContinue=true
-            ++appear
+            appear+=1
         }
         else{
             if(maxAppear<appear) maxAppear=appear
-            isContinue=false
             appear=0
         }
     }
