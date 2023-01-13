@@ -8,6 +8,5 @@ var getConcatenation = function(nums) {
         res[i]=nums[i]
         res[i+nums.length]=nums[i]
     }
-    console.log(res)
     return res
 };
