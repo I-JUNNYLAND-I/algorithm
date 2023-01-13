@@ -11,7 +11,3 @@ var countGoodSubstrings = function(s) {
         if(v[0]!==v[1] && v[1]!==v[2]&&v[0] !==v[2]) return v
     }).length
 };
-//xyz
-//yzz
-//zza
-//zaz
