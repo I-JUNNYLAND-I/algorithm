@@ -12,7 +12,8 @@ var lemonadeChange = function (bills) {
         change[1] += 1;
         change[0] -= 1;
       } else return false;
-    } else if (bills[i] === 20) {
+    }
+    else if (bills[i] === 20) {
       if (change[0] >= 1 && change[1] >= 1) {
         change[1] -= 1;
         change[0] -= 1;
