@@ -3,13 +3,6 @@
  * @return {string}
  */
 var defangIPaddr = function(address) {
- let result = '', length = address.length
-    for (let i = 0; i < length; i++) {
-        if (address[i] === '.') {
-            result += '[.]'
-        } else {
-            result += address[i]
-        }
-    }
-    return result
+    address=address.split(".")
+    return address.join("[.]")
 };
