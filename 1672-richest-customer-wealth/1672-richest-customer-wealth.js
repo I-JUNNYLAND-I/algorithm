@@ -4,9 +4,10 @@
  */
 var maximumWealth = function(accounts) {
     let max=-1
+    let temp=0
     accounts.forEach((v)=>{
         
-        let temp=v.reduce((a,b)=>a+b)
+        temp=v.reduce((a,b)=>a+b)
         if(temp>max) max=temp
     })
     
