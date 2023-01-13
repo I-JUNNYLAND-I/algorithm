@@ -3,10 +3,12 @@
  * @return {number}
  */
 var maximumWealth = function(accounts) {
-    let res=[]
+    let max=-1
     accounts.forEach((v)=>{
-        res.push(v.reduce((a,b)=>a+b))
+        
+        let temp=v.reduce((a,b)=>a+b)
+        if(temp>max) max=temp
     })
     
-    return Math.max(...res)
+    return max
 };
