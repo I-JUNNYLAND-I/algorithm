@@ -10,8 +10,7 @@ var isValid = function(s) {
         let temp=s.pop()
 
         if(!stack.length) stack.push(temp)
-          else if(((stack[stack.length-1]==="(" && temp===")")|| (stack[stack.length-1]==="{"&& temp==="}") || (stack[stack.length-1]==="[" && temp==="]")))
-
+        else if(((stack[stack.length-1]==="(" && temp===")")|| (stack[stack.length-1]==="{"&& temp==="}") || (stack[stack.length-1]==="[" && temp==="]")))
             stack.pop()
         else stack.push(temp)
     }
