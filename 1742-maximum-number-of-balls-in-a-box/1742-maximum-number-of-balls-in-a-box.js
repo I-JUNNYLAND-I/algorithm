@@ -7,10 +7,11 @@ var countBalls = function (lowLimit, highLimit) {
   let baxCount = Array(46).fill(0);
 
   let i = lowLimit;
-
+  let tempSum=0
+  let tempI=i
   while (i <= highLimit) {
-    let tempSum = 0;
-    let tempI = i;
+     tempSum = 0;
+     tempI = i;
     if (tempI < 10) tempSum = i;
     else {
       while (tempI > 9) {
