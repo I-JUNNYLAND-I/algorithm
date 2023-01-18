@@ -8,8 +8,8 @@
 2. 마일스톤에 올라온 알고리즘 종류 설정할것
 3. Issue에 올라온 문제를 전부 묶어서 한번에 PR할것
 4. 안풀린 문제는 [Discussion](https://github.com/I-JUNNYLAND-I/algorithm/discussions/14) 을 이용해 주시기 바랍니다.
-5. 알아볼 수 있도록 PR에 Label을 설정해 주시기 바랍니다.  
-6. [라벨](https://github.com/I-JUNNYLAND-I/algorithm/labels)을 달아 PR해주세요
+5. 알아볼 수 있도록 PR에 Label, 날짜등 정보를 설정해 주시기 바랍니다.  
+6. 꼭 [라벨](https://github.com/I-JUNNYLAND-I/algorithm/labels)을 달아 PR해주세요
 ## milestone
 ---
 
