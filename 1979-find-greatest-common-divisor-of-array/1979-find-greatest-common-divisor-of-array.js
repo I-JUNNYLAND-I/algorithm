@@ -3,8 +3,8 @@
  * @return {number}
  */
 var findGCD = function(nums) {
-    console.log(nums.sort((a,b)=>a-b))
-    console.log(nums[0],nums[nums.length-1])
+    nums.sort((a,b)=>a-b)
+    
     let max=nums[nums.length-1]
     let min=nums[0]
     
