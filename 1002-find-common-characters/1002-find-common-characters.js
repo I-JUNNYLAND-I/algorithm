@@ -12,7 +12,6 @@ var commonChars = function(words) {
             countWord[i][words[i][j].charCodeAt()-97]+=1
         }
     }
-    console.log(countWord)
     for(let i=0;i<=26;i++){
         for(let k=0;k<words.length;k++){
             minCount.push(countWord[k][i])
