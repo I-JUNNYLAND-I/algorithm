@@ -4,10 +4,7 @@
  */
 var checkIfExist = function(arr) {
     let count=0
-    for(let i=0;i<arr.length;i++){
-        if(arr[i]===0)count++
-        if(count>=2)return true
-    }
+    if(arr.length-arr.filter((v)=>v!==0).length>=2) return true
     let flag=false
     
     arr.forEach((v)=>{
