@@ -18,8 +18,9 @@ function reverseNum(num){
 var countDistinctIntegers = function(nums) {
     let N=nums.length
     let res=new Set(nums)
+    let tempNum=-1
     for(let i=0;i<N;i++){
-        let tempNum =reverseNum(nums[i])
+        tempNum =reverseNum(nums[i])
         res.add(tempNum)
     }
 
