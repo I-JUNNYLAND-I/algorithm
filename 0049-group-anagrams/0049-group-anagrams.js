@@ -3,7 +3,6 @@
  * @return {string[][]}
  */
 var groupAnagrams = function(strs) {
-    let tempScore=0
     let obj={}
     let res=[]
     let newStrs=strs.map((v)=>v.split("").sort().join(""))
