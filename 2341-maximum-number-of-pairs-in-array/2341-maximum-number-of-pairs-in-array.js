@@ -9,7 +9,6 @@ var numberOfPairs = function(nums) {
     for(let i=0;i<nums.length;i++){
         obj[nums[i]]?obj[nums[i]]+=1:obj[nums[i]]=1
     }
-    console.log(obj)
     for(count of Object.values(obj)){
         nonpair+=count%2
         pair+=Math.trunc(count/2)
