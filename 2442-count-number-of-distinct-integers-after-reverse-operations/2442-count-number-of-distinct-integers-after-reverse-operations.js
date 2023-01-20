@@ -13,7 +13,7 @@ function reverseNum(num){
         num=Math.trunc(num/10)
     }
     tempStack.push(num)
-    return Number(tempStack.join(""))
+    return +tempStack.join("")
 }
 var countDistinctIntegers = function(nums) {
     let N=nums.length
