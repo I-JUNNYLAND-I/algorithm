@@ -7,7 +7,8 @@ var balancedStringSplit = function(s) {
     let Lcount=0
     let splitCount=0;
     let i=0
-    while(i<s.length){
+    let sLength=s.length
+    while(i<sLength){
         if(s[i]==='R'){
             Rcount++
         }
