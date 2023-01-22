@@ -4,7 +4,6 @@
  */
 var balancedStringSplit = function(s) {
     let balace=0;
-    let Lcount=0
     let splitCount=0;
     let i=0
     let sLength=s.length
