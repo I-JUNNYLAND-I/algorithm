@@ -23,7 +23,7 @@ week 7 : [Queue](https://github.com/I-JUNNYLAND-I/algorithm/milestone/7)
 week 8 : [Binary Search](https://github.com/I-JUNNYLAND-I/algorithm/milestone/8)  
 week 9 : [Math](https://github.com/I-JUNNYLAND-I/algorithm/milestone/9)  
 week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)  
-week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)
+week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 
 ## Contributor
 ---
