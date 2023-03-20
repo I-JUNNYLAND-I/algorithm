@@ -38,7 +38,6 @@ week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 ---
 ![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=chbe5082)
 ![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=silrairon)
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=vjvl95)
 ![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=wjwan0)
 ![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=jennachoi27)
 
