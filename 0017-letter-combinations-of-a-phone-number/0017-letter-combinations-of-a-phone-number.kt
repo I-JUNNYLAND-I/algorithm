@@ -17,7 +17,6 @@ class Solution {
         if(digits == "")
             return emptyList()
         dfs(digits,0,"", answer)
-        println(answer)
         return answer
     }
 
