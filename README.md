@@ -35,9 +35,3 @@ week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vjvl95&theme=dark)
 
----
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=chbe5082)
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=silrairon)
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=wjwan0)
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=jennachoi27)
-
