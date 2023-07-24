@@ -10,8 +10,8 @@
 4. 안풀린 문제는 [Discussion](https://github.com/I-JUNNYLAND-I/algorithm/discussions/14) 을 이용해 주시기 바랍니다.
 5. 알아볼 수 있도록 PR에 Label, 날짜등 정보를 설정해 주시기 바랍니다.  
 6. 꼭 [라벨](https://github.com/I-JUNNYLAND-I/algorithm/labels)을 달아 PR해주세요
-## milestone
 ---
+## milestone  
 
 ### SEASON 1
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)  
@@ -28,8 +28,9 @@ week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 ### SEASON 2
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/12)  
 
-## Contributor
 ---
+## Contributor  
+
 
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)
