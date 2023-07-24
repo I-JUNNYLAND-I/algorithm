@@ -13,6 +13,7 @@
 ## milestone
 ---
 
+### SEASON 1
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/1)  
 week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/2)  
 week 3 : [Hash](https://github.com/I-JUNNYLAND-I/algorithm/milestone/3)  
@@ -24,6 +25,8 @@ week 8 : [Binary Search](https://github.com/I-JUNNYLAND-I/algorithm/milestone/8)
 week 9 : [Math](https://github.com/I-JUNNYLAND-I/algorithm/milestone/9)  
 week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)  
 week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
+### SEASON 2
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/2)  
 
 ## Contributor
 ---
