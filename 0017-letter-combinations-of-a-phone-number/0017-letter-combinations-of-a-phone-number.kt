@@ -10,22 +10,23 @@ class Solution {
             '8' to listOf("t","u","v"),
             '9' to listOf("w","x","y","z")
         )
+        val answer: MutableList<String> = mutableListOf()
     }
 
     fun letterCombinations(digits: String): List<String> {
-        val answer: MutableList<String> = mutableListOf()
+        answer.clear()
         if(digits == "")
             return emptyList()
-        dfs(digits,0,"", answer)
+        dfs(digits,0,"")
         return answer
     }
 
-    private fun dfs(digits: String, depth: Int, data: String, answer: MutableList<String>) {
+    private fun dfs(digits: String, depth: Int, data: String) {
         if(depth == digits.length){
             answer.add(data)
         }else{
             keymap[digits[depth]]?.forEach{
-                dfs(digits, depth+1, data+it, answer)
+                dfs(digits, depth+1, data+it)
             }
         }
     }
