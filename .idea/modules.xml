@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/0-Solution/0-Solution.iml" filepath="$PROJECT_DIR$/0-Solution/0-Solution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StudyLand.iml" filepath="$PROJECT_DIR$/StudyLand.iml" />
-    </modules>
-  </component>
-</project>
