@@ -1,0 +1,62 @@
+Index: 0263-ugly-number/0263-ugly-number.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>class Solution {\r\n    fun isUgly(n: Int): Boolean {\r\n        if(n==0) return false\r\n        var res = n\r\n        while(res!=1){\r\n            if(res%2 == 0){\r\n               res = res/2\r\n                continue\r\n           }\r\n            if(res%3 == 0){\r\n               res = res/3\r\n                continue\r\n           }\r\n            if(res%5 == 0){\r\n               res = res/5\r\n                continue\r\n           }\r\n            return false\r\n        }\r\n        return true\r\n    }   \r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/0263-ugly-number/0263-ugly-number.kt b/0263-ugly-number/0263-ugly-number.kt
+--- a/0263-ugly-number/0263-ugly-number.kt	(revision 777af47d433ce0f278b6eb9b0c2ec9613c7266fa)
++++ b/0263-ugly-number/0263-ugly-number.kt	(date 1690248735600)
+@@ -1,22 +1,22 @@
+ class Solution {
+     fun isUgly(n: Int): Boolean {
+-        if(n==0) return false
++        if (n == 0) return false
+         var res = n
+-        while(res!=1){
+-            if(res%2 == 0){
+-               res = res/2
++        while (res != 1) {
++            if (res % 2 == 0) {
++                res = res / 2
+                 continue
+-           }
+-            if(res%3 == 0){
+-               res = res/3
++            }
++            if (res % 3 == 0) {
++                res = res / 3
+                 continue
+-           }
+-            if(res%5 == 0){
+-               res = res/5
++            }
++            if (res % 5 == 0) {
++                res = res / 5
+                 continue
+-           }
++            }
+             return false
+         }
+         return true
+-    }   
++    }
+ }
+\ No newline at end of file
+Index: 0-Solution/Solution.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/0-Solution/Solution.kt b/0-Solution/Solution.kt
+new file mode 100644
+--- /dev/null	(date 1690248735591)
++++ b/0-Solution/Solution.kt	(date 1690248735591)
+@@ -0,0 +1,6 @@
++class Solution {
++
++
++}
++
++
