@@ -18,10 +18,38 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fix" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1690262174" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="fix" />
+                    <option name="lastUsedInstant" value="1690262173" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="c714ba38-99d5-489e-9581-b3586a2e3b1d" />
@@ -77,13 +105,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.SolutionKt" />
+        <item itemvalue="Kotlin.SolutionKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd8cdc9b-3696-44b5-9633-aaaf7b4e9c0e" name="Changes" comment="" />
+      <changelist id="bc5e296b-8dcf-402b-aa32-cd9566fa955a" name="Changes" comment="" />
       <created>1690176118642</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -92,6 +121,7 @@
       <workItem from="1690248370546" duration="1909000" />
       <workItem from="1690252576733" duration="638000" />
       <workItem from="1690261701628" duration="82000" />
+      <workItem from="1690262159173" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="solve">
       <option name="closed" value="true" />
@@ -109,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690250103638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Revert &quot;Revert &quot;solve&quot;&quot;&#10;&#10;This reverts commit 36101067">
+      <option name="closed" value="true" />
+      <created>1690262211112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690262211112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +158,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -128,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve" />
+    <MESSAGE value="Revert &quot;Revert &quot;solve&quot;&quot;&#10;&#10;This reverts commit 36101067" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;solve&quot;&quot;&#10;&#10;This reverts commit 36101067" />
   </component>
 </project>
