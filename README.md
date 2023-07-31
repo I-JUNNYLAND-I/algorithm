@@ -28,7 +28,8 @@ week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 
 ### SEASON 2  
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/12)  
-week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/13)  
+week 2 : [Collection](https://github.com/I-JUNNYLAND-I/algorithm/milestone/13)   
+
 ---  
 ## Contributor  
 
