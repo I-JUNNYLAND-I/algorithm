@@ -1,15 +1,18 @@
 class Solution {
    fun minDeletionSize(strs: Array<String>): Int {
-        val cols :Array<Array<Char>> =  Array(strs[0].length) { Array(strs.size) { ' ' } }
-        strs.forEachIndexed { i, it ->
-            it.forEachIndexed { j, c ->
-                cols[j][i] = c
-             }
+        val m = strs.size
+        val n = strs[0].length
+        var result = 0
+
+        for (col in 0..n-1) {
+            for (row in 1..m-1) {
+                if (strs[row][col] < strs[row-1][col]) {
+                    result++
+                    break
+                }
+            }
         }
-        var res = 0
-        cols.forEach {
-            if (!it.sortedArray().contentEquals(it)) res++
-        }
-        return res
+
+        return result
     }
 }
