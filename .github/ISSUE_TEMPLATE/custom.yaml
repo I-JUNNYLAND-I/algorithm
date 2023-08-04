@@ -15,6 +15,5 @@ body:
       [Q2]()
       [Q3]()
       [Q4]() SQL
-    render: bash
   validations:
     required: true
