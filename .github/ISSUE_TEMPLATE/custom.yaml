@@ -6,12 +6,9 @@ assignees:
   - junnyJun
 body:
 - type: markdown
-  id: repro
+  attributes:
+    value: "## Welcome!"
+- type: markdown
   attributes:
     value: |
-      [Q1]()
-      [Q2]()
-      [Q3]()
-      [Q4]() SQL
-  validations:
-    required: true
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
