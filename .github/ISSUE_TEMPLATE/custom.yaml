@@ -8,8 +8,6 @@ body:
 - type: markdown
   id: repro
   attributes:
-    label: Question !
-    description: "try to resolve& pull request !"
     value: |
       [Q1]()
       [Q2]()
