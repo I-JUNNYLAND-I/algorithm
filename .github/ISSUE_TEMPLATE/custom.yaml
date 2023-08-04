@@ -5,9 +5,14 @@ labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-- type: markdown
+- type: input
+  id: prevalence
   attributes:
-    value: "## Welcome!"
+    label: Bug prevalence
+    description: "How often do you or others encounter this bug?"
+    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+  validations:
+    required: true
 - type: markdown
   attributes:
     value: |
