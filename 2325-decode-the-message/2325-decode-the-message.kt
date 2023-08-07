@@ -1,10 +1,10 @@
 class Solution {
     fun decodeMessage(key: String, message: String): String {
-        val keySet = key.replace(" ","").toSet()
+         val keySet = key.toSet().filter{ s: Char -> s != ' '}
         val result =  StringBuilder()
-        message.forEach {
-            if (it != ' ') {
-                result.append('a'+ keySet.indexOf(it))
+        message.forEach { m ->
+            if (m != ' ') {
+                result.append('a'+ keySet.indexOf(m))
             } else {
                 result.append(' ')
             }
