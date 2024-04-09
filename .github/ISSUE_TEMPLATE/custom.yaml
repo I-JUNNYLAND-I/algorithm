@@ -5,32 +5,11 @@ labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-- type: input
-  id: q1
+- type: dropdown
+  id: difficulty
   attributes:
-    label: QUESTION 1
-    description: "[QUESTION 1]()"
-    placeholder: "QUESTION 1"
-- type: input
-  id: q2
-  attributes:
-    label: QUESTION 2
-    description: "[QUESTION 2]()"
-    placeholder: "QUESTION 2"
-- type: input
-  id: q3
-  attributes:
-    label: QUESTION 3
-    description: "[QUESTION 3]()"
-    placeholder: "QUESTION 3"
-- type: input
-  id: q4
-  attributes:
-    label: QUESTION SQL
-    description: "QUESTION SQL"
-    placeholder: "QUESTION SQL"
-
-- type: markdown
-  attributes:
-    value: |
-      다풀면 PR을 날려주세요
+    label: 이번주 난이도
+    options:
+      - 쉬움
+      - 보통
+      - 어려움
