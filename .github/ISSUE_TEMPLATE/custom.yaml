@@ -1,6 +1,6 @@
 name: Daily question
 description: try to resolve& pull request !
-title: "[W ] - DAY "
+title: "PR-"
 labels: ["❔ Question"]
 assignees:
   - junnyJun
