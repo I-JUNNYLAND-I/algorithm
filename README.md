@@ -26,5 +26,5 @@ week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)
 week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)  
 
 ### SEASON ING
-week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestones?with_issues=no)
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/15)
 
