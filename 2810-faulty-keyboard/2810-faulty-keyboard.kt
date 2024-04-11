@@ -1,7 +1,7 @@
 class Solution {
     fun finalString(s: String): String {
         var result = ""
-        for (i in 0 until s.length) {
+        for (i in s.indices) {
             if (s[i] == 'i') {
                 result = result.reversed()
             } else {
