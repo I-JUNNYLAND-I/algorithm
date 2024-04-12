@@ -1,6 +1,6 @@
 # Algorithm study
 참여시 Branch 생성을 요청해 주시기 바랍니다.  
-[leethub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi), [Baekjoon](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk)연동후 문제를 풀어 본인의 repository에 commit이 되었는지 확인한 후,  
+[leethub]([https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=ko&utm_source=ext_sidebar)), [Baekjoon](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk)연동후 문제를 풀어 본인의 repository에 commit이 되었는지 확인한 후,  
 현재 [repository](https://github.com/I-JUNNYLAND-I/algorithm/fork)를 fork하고 알맞는 Branch에 pull request 해주시면 됩니다.
 
 ## PR 규칙 **[예시](https://github.com/I-JUNNYLAND-I/algorithm/pull/3)**
@@ -25,6 +25,6 @@ week 9 : [Math](https://github.com/I-JUNNYLAND-I/algorithm/milestone/9)
 week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)  
 week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)  
 
-### SEASON ING
-week 1 : String
+### SEASON ~ING
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/15)
 
