@@ -8,8 +8,7 @@
 2. 마일스톤에 올라온 알고리즘 종류 설정할것
 3. Issue에 올라온 문제를 전부 묶어서 한번에 PR할것
 4. 안풀린 문제는 [Discussion](https://github.com/I-JUNNYLAND-I/algorithm/discussions/14) 을 이용해 주시기 바랍니다.
-5. 알아볼 수 있도록 PR에 Label, 날짜등 정보를 설정해 주시기 바랍니다.  
-6. 꼭 [라벨](https://github.com/I-JUNNYLAND-I/algorithm/labels)을 달아 PR해주세요
+5. 꼭 [라벨](https://github.com/I-JUNNYLAND-I/algorithm/labels)을 달아 PR해주세요
 ---
 ## MILESTONE  
 
@@ -26,16 +25,6 @@ week 9 : [Math](https://github.com/I-JUNNYLAND-I/algorithm/milestone/9)
 week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)  
 week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)  
 
-### SEASON 2  
-week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/12)  
-
----  
-## Contributor  
-
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LeeChangHee&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jwahn&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wjwan0&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=QuiD_X&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27&theme=dark)
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vjvl95&theme=dark)
+### SEASON ING
+week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/15)
 

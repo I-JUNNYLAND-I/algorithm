@@ -1,20 +1,15 @@
 name: Daily question
 description: try to resolve& pull request !
-title: "day "
+title: "PR-"
 labels: ["❔ Question"]
 assignees:
   - junnyJun
 body:
-- type: textarea
-  id: repro
+- type: dropdown
+  id: difficulty
   attributes:
-    label: Question !
-    description: "try to resolve& pull request !"
-    value: |
-      [Q1]()
-      [Q2]()
-      [Q3]()
-      [Q4]() SQL
-    render: bash
-  validations:
-    required: true
+    label: 이번주 난이도
+    options:
+      - 쉬움
+      - 보통
+      - 어려움
