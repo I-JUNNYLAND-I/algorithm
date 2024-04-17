@@ -1,0 +1,15 @@
+name: Daily question
+description: try to resolve& pull request !
+title: "PR-"
+labels: ["❔ Question"]
+assignees:
+  - junnyJun
+body:
+- type: dropdown
+  id: difficulty
+  attributes:
+    label: 이번주 난이도
+    options:
+      - 쉬움
+      - 보통
+      - 어려움
