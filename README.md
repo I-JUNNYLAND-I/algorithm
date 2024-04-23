@@ -28,3 +28,4 @@ week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)
 ### SEASON ~ING
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/15)  
 week 2 : [Array](https://github.com/I-JUNNYLAND-I/algorithm/milestone/16)  
+week 3 : [Hash](https://github.com/I-JUNNYLAND-I/algorithm/milestone/17)  
