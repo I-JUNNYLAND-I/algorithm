@@ -37,3 +37,10 @@ class Solution {
         return result
     }
 }
+
+/*
+접근 방법
+접근 1. 우선 본인 Val을 모두 계산한 뒤 Average를 구하는 걸 작성
+접근 2. 이후 Left, Right에 대해서 저장한 뒤 반복해준다
+접근 3. 접근 1로 조건이 만족할 때까지 반복
+*/
