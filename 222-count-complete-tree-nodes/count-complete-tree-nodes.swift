@@ -23,3 +23,9 @@ class Solution {
         return result
     }
 }
+
+/*
+해당 문제는 root value가 무조건 있다고 생각하여 1을 추가해줍니다
+root가 없을 경우 guard구문으로 0을 반환해줍니다
+result에서 val을 optional 체크를 하게 될 경우 유효한 정답이 나오지 않습니다
+*/
