@@ -24,7 +24,7 @@ class Solution {
         for _ in 0 ..< s.count - front.count - 1 {
             front += "0"
         }
-        print("a==",front+result)
+        
         return front+result
     }
 }
