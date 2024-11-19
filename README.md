@@ -25,7 +25,7 @@ week 9 : [Math](https://github.com/I-JUNNYLAND-I/algorithm/milestone/9)
 week 10 : [DFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/10)  
 week 11 : [BFS](https://github.com/I-JUNNYLAND-I/algorithm/milestone/11)  
 
-### SEASON ~ING
+### SEASON 2
 week 1 : [String](https://github.com/I-JUNNYLAND-I/algorithm/milestone/15)  
 week 2 : [Array](https://github.com/I-JUNNYLAND-I/algorithm/milestone/16)  
 week 3 : [Hash](https://github.com/I-JUNNYLAND-I/algorithm/milestone/17)  
@@ -34,3 +34,9 @@ week 5 : [Greedy](https://github.com/I-JUNNYLAND-I/algorithm/milestone/19)
 week 6 : [Stack](https://github.com/I-JUNNYLAND-I/algorithm/milestone/20)  
 week 7 : [Queue](https://github.com/I-JUNNYLAND-I/algorithm/milestone/21)  
 week 8 : [Binary Search](https://github.com/I-JUNNYLAND-I/algorithm/milestone/22)  
+
+### SEASON 3
+
+시즌 3는 고난이도 문제를 기준으로 답변과 해석을 포함하여 주에 1~2문제씩 풉니다.
+
+week 1 : [Simuation](https://leetcode.com/problems/dice-roll-simulation/description/)
