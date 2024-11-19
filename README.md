@@ -39,4 +39,4 @@ week 8 : [Binary Search](https://github.com/I-JUNNYLAND-I/algorithm/milestone/22
 
 시즌 3는 고난이도 문제를 기준으로 답변과 해석을 포함하여 주에 1~2문제씩 풉니다.
 
-week 1 : [Simuation](https://leetcode.com/problems/dice-roll-simulation/description/)
+week 1 : [Dice-Simuation](https://leetcode.com/problems/dice-roll-simulation/description/)  [Answer](https://github.com/I-JUNNYLAND-I/algorithm/discussions/385)
